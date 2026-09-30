@@ -2,7 +2,7 @@
 
 **一款纯放置、不肝不氪的挂机RPG。**
 
-👉 **[点我开始玩](https://xiaohuangya617.github.io)**
+👉 **[点我开始玩](https://xiaohuangya617.github.io/guajiya/)**
 
 12大职业自由混搭，双特性组合出66种进阶职业。
 
